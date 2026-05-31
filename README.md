@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ozanzengin.com.tr"><img src="https://img.shields.io/badge/Website-ozanzengin.com.tr-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://ozanzengin.com.tr"><img src="https://img.shields.io/badge/Website-ozanzengin.com.tr-F97316?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/ozanzeng/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/ozanzeng"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="mailto:oznzengin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -46,12 +46,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ozanzeng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanzeng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ozanzeng&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=F97316&icon_color=FB923C&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanzeng&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=F97316&text_color=C9D1D9" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozanzeng&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozanzeng&hide_border=true&background=0D1117&stroke=F97316&ring=F97316&fire=FB923C&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=F97316&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
 </p>
 
 ---
