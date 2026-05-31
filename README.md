@@ -47,8 +47,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ozanzeng&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=F97316&icon_color=FB923C&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanzeng&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=F97316&text_color=C9D1D9" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ozanzeng&theme=gruvbox" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ozanzeng&theme=gruvbox" alt="Top Languages"/>
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ozanzeng&theme=gruvbox" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
